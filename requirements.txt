@@ -1,10 +1,13 @@
 numpy
 soundfile
 scipy
-torch>=1.8.1
 tqdm
 librosa
 demucs
-onnxruntime-gpu==1.15.1
-PyQt5
-ffmpeg
+onnxruntime-gpu
+torch>=1.13.0
+pyyaml
+ml_collections
+pytorch_lightning
+samplerate
+segmentation_models_pytorch==0.3.3
